@@ -1,4 +1,5 @@
 # TowerDefens_Build
+!!! The project is still in its early development phase, with core mechanics and systems being prototyped. !!!
 
 [Gameplay on YT](https://youtu.be/2AE14vZ-3To)
 
