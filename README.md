@@ -1,5 +1,7 @@
 # TowerDefens_Build
 
+[Gameplay on YT](https://youtu.be/2AE14vZ-3To)
+
 In "Tower Defense", the player takes command of a mighty fortress — the last bastion protecting the magical Heart from endless waves of invading enemies. Each level challenges you to think strategically as you manage resources, place traps, and secure rooms within your tower. The deeper the enemies breach, the greater the danger. Build, upgrade, and plan carefully — only the sharpest strategist will keep the tower standing.
 
 Core Gameplay Mechanics
